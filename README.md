@@ -2,6 +2,7 @@
 This project is focused on the design and implementation of a relational database for an e-learning data’s.  The project contains 3 tables such as Leaners ,Courses,Purchase tables. It can be used to manage the e-purchasing transaction records.   The analysis perform the records to perform the sales and learners’ preference and priorities.
 
 Problem Statement :-
+
 The goal is to develop the MySQL solution script that perform the interaction with relational database management systems (RDBMS).
 The users perform retrieving the specific information from the database.
 It supports the major commands like Create, Inserting, Select, where, Group By Clauses, Joins and aggregate functions.
